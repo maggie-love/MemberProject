@@ -26,6 +26,6 @@ ssssss<br>5555555<hr>55
 
 [google] (http://www.google.com)
 
-[講義](doc/6_Java EE Application.pdf)
+[講義](doc/git.pdf)
 
 ![咖啡](pic/coffee.png)
